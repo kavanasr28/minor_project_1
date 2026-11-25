@@ -1,0 +1,3 @@
+adder
+adder_sim
+*.vcd
